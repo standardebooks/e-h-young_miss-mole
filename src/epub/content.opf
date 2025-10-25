@@ -44,9 +44,10 @@
 		<meta id="collection-1" property="belongs-to-collection">James Tait Black Memorial Fiction Prize Winners</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">12</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A middle-aged governess seeks to find her purpose in life.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Hannah Mole is a forty year old woman who spent her life being in the service of others.The child of poor farmers, she made a living working as a governess in the household of wealthier people. Not having the freedom to live life as she desire, she contents in causing shock with ironic comments in an effort to mask her true personality.&lt;/p&gt;
+			&lt;p&gt;The plot focuses on the interations between miss Mole and her new employers, Reverend Corder and his family, in which she assumes a motherly role.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20230217</dc:source>
