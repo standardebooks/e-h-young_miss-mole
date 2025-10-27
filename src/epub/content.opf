@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/e-h-young/miss-mole</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-01-01T16:00:30Z</dc:date>
+		<meta property="dcterms:modified">2026-01-01T16:00:30Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -45,16 +45,16 @@
 		<meta id="collection-1" property="belongs-to-collection">James Tait Black Memorial Fiction Prize Winners</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">12</meta>
-		<dc:description id="description">A middle-aged governess seeks to find her purpose in life.</dc:description>
+		<dc:description id="description">A middle-aged governess tries to find her purpose in life.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Hannah Mole is a forty year old woman who spent her life being in the service of others.The child of poor farmers, she made a living working as a governess in the household of wealthier people. Not having the freedom to live life as she desire, she contents in causing shock with ironic comments in an effort to mask her true personality.&lt;/p&gt;
-			&lt;p&gt;The plot focuses on the interations between miss Mole and her new employers, Reverend Corder and his family, in which she assumes a motherly role.&lt;/p&gt;
+			&lt;p&gt;Hannah Mole, the child of poor farmers, is now a forty-year-old woman who spent her life working as a governess in the households of the wealthy. Not having the freedom to live life as she desires, she contents herself by making ironic comments in order to cause shock, in an effort to mask her true personality.&lt;/p&gt;
+			&lt;p&gt;The plot focuses on the interactions between Miss Mole and her new employers, Reverend Corder and his family, in which she assumes a motherly role. Miss Mole’s sharp wit and generous spirit help guide the growing family, but raise one of the novel’s central questions: who is taking care of Miss Mole?&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20230217</dc:source>
 		<dc:source>https://archive.org/details/missmole0000youn</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">102222</meta>
+		<meta property="se:reading-ease.flesch">70.63</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/e-h-young_miss-mole</meta>
 		<dc:creator id="author">E. H. Young</dc:creator>
 		<meta property="file-as" refines="#author">Young, E. H.</meta>
@@ -86,6 +86,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
