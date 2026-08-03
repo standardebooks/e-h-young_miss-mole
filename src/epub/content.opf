@@ -68,7 +68,6 @@
 		<dc:contributor id="artist">Julian Alden Weir</dc:contributor>
 		<meta property="file-as" refines="#artist">Weir, Julian Alden</meta>
 		<link href="https://en.wikipedia.org/wiki/J._Alden_Weir" refines="#artist" rel="schema:sameAs"/>
-		<link href="https://en.wikipedia.org/wiki/J._Alden_Weir" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Al Haines</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Haines, Al</meta>
