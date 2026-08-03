@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/e-h-young/miss-mole</dc:identifier>
 		<dc:date>2026-01-01T16:00:30Z</dc:date>
@@ -46,11 +46,11 @@
 		<meta id="collection-1" property="belongs-to-collection">James Tait Black Memorial Fiction Prize Winners</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">12</meta>
-		<dc:description id="description">A middle-aged governess tries to find her purpose in life.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A middle-aged governess tries to find her purpose in life.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Hannah Mole, the child of poor farmers, is now a forty-year-old woman who spent her life working as a governess in the households of the wealthy. Not having the freedom to live life as she desires, she contents herself by making ironic comments in order to cause shock, in an effort to mask her true personality.&lt;/p&gt;
 			&lt;p&gt;The plot focuses on the interactions between Miss Mole and her new employers, Reverend Corder and his family, in which she assumes a motherly role. Miss Mole’s sharp wit and generous spirit help guide the growing family, but raise one of the novel’s central questions: who is taking care of Miss Mole?&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20230217</dc:source>
 		<dc:source>https://archive.org/details/missmole0000youn</dc:source>
